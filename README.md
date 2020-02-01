@@ -22,4 +22,4 @@ Electrical Engineering and Computer Science
 
 - youtube 上的 MIT OpenCourseWare。视频服务更好
 
-> https://www.youtube.com/user/MIT
+> https://www.youtube.com/user/MITczc
